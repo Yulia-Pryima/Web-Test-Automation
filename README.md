@@ -1,5 +1,3 @@
 # Practicing
-Sandbox
-Merge conf resolved 
+My Sandbox
 
-fghjhfvj
